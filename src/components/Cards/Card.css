@@ -1,0 +1,14 @@
+.card {
+    width: 250px;
+    height: 350px;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 5px;
+}
+
+.card-title {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}

@@ -1,0 +1,18 @@
+.home {
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    gap: 100px;
+    padding: 0 50px;
+    padding: 100px 50px 0 50px;
+    color: white;
+    height: 90vh;
+}
+
+.home h1 {
+    margin-bottom: 30px;
+}
+
+.home p{
+    opacity: 0.8;
+    line-height: 25px;
+}

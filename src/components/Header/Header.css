@@ -1,0 +1,51 @@
+.header {
+    background-color: black;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    padding: 0 50px;  
+}
+
+.header .logo {
+    width: 150px;
+}
+
+
+.header-link {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+.header button {
+    padding: 4px 14px;
+    border: none;
+    border-radius: 5px;
+    background: #F9A51A;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.header .user-info {
+    display: inline-flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.header .user-text {
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.header .user-profile {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
